@@ -30,14 +30,14 @@ Compiling BonesHub is pretty simple, just one command, and you're ready to go:
 gradlew.bat shadowJar
 ```
 
-Then you will find the binary under the `build/libs/` directory.<!--
+Then you will find the binary under the `build/libs/` directory.
 
 ### Report bugs or request features
 
 Reporting a bug or requesting a feature can be useful for further development of the plugin. To do that you just need
 to fill one of the issue templates we made for you:
-[Click here to report a bug](https://github.com/devblook/akropolis/issues/new?assignees=zetastormy&labels=bug&template=bug_report.yml&title=A+brief+description+of+your+report)
-or [click here to request a feature](https://github.com/devblook/akropolis/issues/new?assignees=zetastormy&labels=enhancement&template=feature_request.yml&title=A+brief+description+of+your+request).
+[Click here to report a bug](https://github.com/BoneDevInc/bone-hub/issues/new?assignees=ccsnova&labels=bug&template=bug_report.yml&title=A+brief+description+of+your+report)
+or [click here to request a feature](https://github.com/BoneDevInc/bone-hub/issues/new?assignees=ccsnova&labels=enhancement&template=feature_request.yml&title=A+brief+description+of+your+request).
 
 ### Contribute
 
@@ -45,7 +45,7 @@ At the moment we don't have a lot of requirements to contribute, just make sure 
 the features or fixes that you introduce in your pull request and try to follow the
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
 
--->## License
+## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for
 details.
