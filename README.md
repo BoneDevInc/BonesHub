@@ -10,7 +10,7 @@ The main difference between BonesHub and Akropolis is that BonesHub uses more of
 
 ### Install
 
-To use this plugin just a grab a binary from the [releases page](https://github.com/BoneDevInc/bone-hub/releases)
+To use this plugin just a grab a binary from the [releases page](https://github.com/BoneDevInc/BonesHub/releases)
 or [compile it](#compile) yourself and drop it into your `plugins/` directory. Take in mind that you will need to be
 running Paper 1.20+ so BonesHub can run properly. We recommend using Purpur however as it is usually quicker. You can download Purpur from [here](https://purpurmc.org/downloads).
 
@@ -36,8 +36,8 @@ Then you will find the binary under the `build/libs/` directory.
 
 Reporting a bug or requesting a feature can be useful for further development of the plugin. To do that you just need
 to fill one of the issue templates we made for you:
-[Click here to report a bug](https://github.com/BoneDevInc/bone-hub/issues/new?assignees=ccsnova&labels=bug&template=bug_report.yml&title=A+brief+description+of+your+report)
-or [click here to request a feature](https://github.com/BoneDevInc/bone-hub/issues/new?assignees=ccsnova&labels=enhancement&template=feature_request.yml&title=A+brief+description+of+your+request).
+[Click here to report a bug](https://github.com/BoneDevInc/BonesHub/issues/new?assignees=ccsnova&labels=bug&template=bug_report.yml&title=A+brief+description+of+your+report)
+or [click here to request a feature](https://github.com/BoneDevInc/BonesHub/issues/new?assignees=ccsnova&labels=enhancement&template=feature_request.yml&title=A+brief+description+of+your+request).
 
 ### Contribute
 
