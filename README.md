@@ -1,26 +1,22 @@
 ![Akropolis banner](https://user-images.githubusercontent.com/56933557/188349705-b1f1eb56-8e4b-42d2-b99d-f21552ec84c2.png)
 
-Akropolis is a modern Minecraft hub server solution that is based on DeluxeHub by ItsLewizz.
+BonesHub is a modern Minecraft hub server solution that is based on Akropolis by DevBlook which is based on DeluxeHub by ItsLewizz. (Very confusing)
 It contains almost all of its features and configuration files are almost the same, so you can just
 drop your configuration into the plugin's directory, make a few modifications and use it.
 
-The main difference between Akropolis and DeluxeHub is that Akropolis uses more modern technologies, like MiniMessage,
-the Paper API and updated Java versions. While this give us some performance and usability benefits, it also means
-that we won't be giving support to older versions of Minecraft and other Minecraft server software that isn't derivated
-from Paper, which is not the case of DeluxeHub.
-Simply use what you feel meets your needs.
+The main difference between BonesHub and Akropolis is that BonesHub uses more of the Bones Network plugins to it's benefit such as Clora to allow the use of the & color codes.
 
 ## How to
 
 ### Install
 
-To use this plugin just a grab a binary from the [releases page](https://github.com/devblook/akropolis/releases)
+To use this plugin just a grab a binary from the [releases page](https://github.com/BoneDevInc/bone-hub/releases)
 or [compile it](#compile) yourself and drop it into your `plugins/` directory. Take in mind that you will need to be
-running Paper 1.20+ so Akropolis can run properly. You can download Paper from [here](https://papermc.io/downloads).
+running Paper 1.20+ so BonesHub can run properly. We recommend using Purpur however as it is usually quicker. You can download Purpur from [here](https://purpurmc.org/downloads).
 
 ### Compile
 
-Compiling Akropolis is pretty simple, just one command, and you're ready to go:
+Compiling BonesHub is pretty simple, just one command, and you're ready to go:
 
 **Linux (and other UNIX derivatives):**
 
@@ -34,7 +30,7 @@ Compiling Akropolis is pretty simple, just one command, and you're ready to go:
 gradlew.bat shadowJar
 ```
 
-Then you will find the binary under the `build/libs/` directory.
+Then you will find the binary under the `build/libs/` directory.<!--
 
 ### Report bugs or request features
 
@@ -49,7 +45,7 @@ At the moment we don't have a lot of requirements to contribute, just make sure 
 the features or fixes that you introduce in your pull request and try to follow the
 [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
 
-## License
+-->## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for
 details.
